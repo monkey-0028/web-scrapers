@@ -134,5 +134,4 @@ print(apunkagames.search("God of war"))
 3. Error handeling including void field
 4. Expand the search (crawl through the whole website to find all search)
 5. Handle additional information if available (eg. platform(ps4/ps3/pc), region: Jap/US etc)
-6. Handle relative url link
 '''
